@@ -96,5 +96,31 @@ input:focus{
   color: #fff;
 }
 .social-signin{
-  
+  margin-bottom: 20px;
+  width: 220px;
+  height: 36px;
+  border: 0;
+  border-radius: 2px;
+  color: #fff;
+}
+.facebook{
+  background-color: #32508e;
+}
+.twitter{
+  background-color: #55acee;
+}
+
+.google{
+  background-color: #dd4b39;
+}
+.or{
+  position: absolute;
+  margin-top: 180px;
+  margin-left: 280px;
+  width: 40px;
+  height: 40px;
+  background-color: #ddd;
+  border-radius: 50%;
+  line-height: 40px;
+  text-align: center;
 }
